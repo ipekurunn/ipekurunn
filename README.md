@@ -2,9 +2,6 @@
 <h3 align="center">A passionate developer from Turkey</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ipekurunn&label=Profile%20views&color=0e75b6&style=flat" alt="ipekurunn" /> </p>
-
 - 🔭 I’m currently graduate student in **Software Engineering and Data Science at Izmir Enstitute of Technology**
 
 - 🌱 I’m currently learning **C#, Java, and Python**
