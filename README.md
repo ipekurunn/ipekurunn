@@ -6,8 +6,6 @@
 
 - 🌱 I’m currently learning **C#, Java, and Python**
 
-- 👯 I’m looking to collaborate on **Game Development**
-
 - 📫 How to reach me **ipekurun.96@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
