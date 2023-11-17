@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ipek Urun</h1>
 <h3 align="center">A passionate developer from Turkey</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.pixabay.com/photo/2023/02/15/20/01/ai-generated-7792597_1280.jpg">
+<img align="right" alt="Coding" width="200" src="https://cdn.pixabay.com/photo/2023/02/15/20/01/ai-generated-7792597_1280.jpg">
 
 - 🔭 I’m currently graduate student in **Software Engineering and Data Science at Izmir Enstitute of Technology**
 
