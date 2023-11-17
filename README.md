@@ -22,4 +22,5 @@
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40" height="40"/> </a> 
 <a href="https://www.eclipse.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Eclipse-Luna-Logo.svg" alt="eclipse" width="100" height="40"/> </a>
-<a href="https://www.esri.com/en-us/arcgis/about-arcgis/overview/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/esri-2.svg" alt="eclipse" width="40" height="40"/> </a> </p>
+<a href="https://www.esri.com/en-us/arcgis/about-arcgis/overview/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/esri-2.svg" alt="eclipse" width="40" height="40"/> </a>
+<a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="eclipse" width="40" height="40"/> </a> </p>
