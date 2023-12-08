@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently graduate student in **Software Engineering and Data Science at Izmir Enstitute of Technology**
 
-- 🌱 I’m currently learning **C#, Java, and Python**
+- 🌱 I am a student in the **Timus Full Stack Developer Bootcamp** organized by Patika.dev.
 
 - 📫 How to reach me **ipekurun.96@hotmail.com**
 
