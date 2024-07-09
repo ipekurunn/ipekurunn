@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer from Turkey</h3>
 <img align="right" alt="Coding" width="200" src="https://cdn.pixabay.com/photo/2023/02/15/20/01/ai-generated-7792597_1280.jpg">
 
-- 🔭 I’m currently graduate student in **Software Engineering and Data Science at Izmir Enstitute of Technology**
+- 🔭 I’m currently graduate student in **Software Engineering and Data Science at Izmir Institute of Technology**
 
 - 🌱 I am a student in the **Timus Full Stack Developer Bootcamp** organized by Patika.dev.
 
